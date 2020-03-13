@@ -1,0 +1,13 @@
+li {
+    display: inline;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    margin-top: 22.5%;
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: rgb(160, 20, 250);
+}
